@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PlayGround/.vs
+/PlayGround/PlayGround.Api/obj
+/.vs
+/PlayGround/PlayGround.CrossCutting/obj
+/PlayGround/PlayGround.Data/obj
+/PlayGround/PlayGround.Domain/obj
+/PlayGround/PlayGround.Service/obj
+/PlayGround/back-end/PlayGround.Api/obj
+/PlayGround/back-end/.vs/PlayGround/FileContentIndex
+/PlayGround/back-end/PlayGround.Data/obj
+/PlayGround/back-end/PlayGround.Domain/obj
+/PlayGround/back-end/PlayGround.Service/obj
+/PlayGround/back-end/PlayGround.CrossCutting/obj
