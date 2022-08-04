@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/back-end/PlayGround.CrossCutting/bin/Debug/net6.0
+/back-end/PlayGround.Data/bin/Debug/net6.0
+/back-end/PlayGround.Domain/bin/Debug/net6.0
+/back-end/PlayGround.Service/bin/Debug/net6.0
+/back-end/PlayGround.Api/bin/Debug/net6.0
